@@ -3,9 +3,7 @@ Repositório do primeiro estudo de caso - POO
 
 Repositório: https://github.com/marinando/EstudoDeCaso1
 
-Sistema de Cálculo de Salário Líquido
+Sistema: Banco
 
-
-
-O sistema permitirá o cadastro de múltiplos salários e seus descontos (INSS, Imposto de Renda, FGTS). Será possível calcular com o salário bruto, o salário líquido com base nos fatores que deduzem o salário líquido. 
-O sistema permitirá a visualização, cadastro, atualização e deleção dos livros no acervo.
+O sistema permitirá o cadastro de múltiplos usuários com suas contas correntes. Será possível sacar, transacionar e depositar valores. 
+O sistema permitirá a visualização do extrato, o saldo, realizar um novo cadastro, atualização de cadastro e deleção de conta.
